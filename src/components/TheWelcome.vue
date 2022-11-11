@@ -12,7 +12,7 @@ import SupportIcon from './icons/IconSupport.vue'
   <div id="fb-root"></div>
 
   <!-- Your Plugin chat code -->
-  <div id="fb-customer-chat" class="fb-customerchat">
+  <div id="100087615123037" class="fb-customerchat">
   </div>
   <WelcomeItem>
     <template #icon>
